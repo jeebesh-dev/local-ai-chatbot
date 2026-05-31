@@ -35,7 +35,7 @@ streamlit run streamlit_app.py
 private-chatgpt-app/
 ├── README.md
 ├── requirements.txt
-├── run.bat
+├── run.sh
 └── streamlit_app.py
 ```
 
