@@ -1,14 +1,16 @@
-# Private ChatGPT App
+# Local AI Chatbot
 
-A private AI chatbot built using Streamlit and Ollama, enabling local Large Language Model (LLM) interactions without relying on external cloud services.
+A privacy-focused AI chatbot built with Streamlit and Ollama, enabling fully local Large Language Model (LLM) interactions without external cloud services.
 
 ## Features
 
-* Local AI chatbot interface
-* Streamlit-based web application
-* Ollama integration for local LLMs
-* Private and offline conversations
-* Simple and lightweight setup
+* Fully local AI chatbot
+* Offline conversation support
+* Ollama-powered LLM integration
+* Interactive Streamlit web interface
+* Secure and private chat experience
+* Lightweight and easy deployment
+
 
 ## Technologies Used
 
