@@ -1,0 +1,8 @@
+.venv/
+myenv/
+.vscode/
+__pycache__/
+*.pyc
+chat_history.json
+.env
+OllamaSetup.env
